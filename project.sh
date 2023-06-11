@@ -1,3 +1,3 @@
-This is the first version
+echo "This is the first version"
 
-Adding to second version
+echo "Adding to second version"
